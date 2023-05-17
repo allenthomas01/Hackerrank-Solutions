@@ -34,7 +34,7 @@ My solutions for the challenges in hackerrank.
   </tr>
   <tr>
     <td>Introduction</td>
-    <td><a href="https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true">Java Loops I</a></td>
+    <td><a href="https://www.hackerrank.com/challenges/java-loops/problem?h_r=next-challenge&h_v=zen&isFullScreen=true">Java Loops I</a></td>
     <td><a href="Java/loops1.java">loops1.java</a></td>
   </tr>
 </table>
