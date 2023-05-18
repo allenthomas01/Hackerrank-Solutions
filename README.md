@@ -32,6 +32,11 @@ My solutions for the challenges in hackerrank.
     <td><a href="https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true">Java Output Formatting</a></td>
     <td><a href="Java/OutputFormat.java">OutputFormat.java</a></td>
   </tr>
+  <tr>
+    <td>Introduction</td>
+    <td><a href="https://www.hackerrank.com/challenges/java-loops/problem?h_r=next-challenge&h_v=zen&isFullScreen=true">Java Loops I</a></td>
+    <td><a href="Java/loops1.java">loops1.java</a></td>
+  </tr>
 </table>
 
 
